@@ -71,7 +71,7 @@ streamlit run ui/streamlit_app.py
 
 ⸻
 
-🏆 Resume Summary
+
 
 Built an AI research assistant using RAG and real-time web search with intelligent query routing to optimize speed and accuracy.
 
